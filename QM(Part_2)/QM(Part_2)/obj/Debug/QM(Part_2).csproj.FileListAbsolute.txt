@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\bin\Debug\QM(Part_2).exe.config
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\bin\Debug\QM(Part_2).exe
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\bin\Debug\QM(Part_2).pdb
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM(Part_2).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM_Part_2_.Form1.resources
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM_Part_2_.Form2.resources
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM_Part_2_.Properties.Resources.resources
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM(Part_2).csproj.GenerateResource.cache
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM(Part_2).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM(Part_2).exe
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM(Part_2).pdb
+C:\Users\HP\source\repos\QM(Part_2)\QM(Part_2)\obj\Debug\QM_Part_2_.Form3.resources
